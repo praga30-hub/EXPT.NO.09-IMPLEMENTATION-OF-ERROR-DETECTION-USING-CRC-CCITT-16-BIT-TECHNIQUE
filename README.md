@@ -53,7 +53,7 @@ printf("no error detected");
 }
 ```
 # OUTPUT:
-![Uploading image.png…]()
+<img width="892" height="469" alt="image" src="https://github.com/user-attachments/assets/36ca2564-f66a-4806-b74e-899d7172ea4e" />
 
 
 # RESULT:
