@@ -13,6 +13,7 @@ To write a program for error Detection using Cyclic Redundancy Check (CRC-16 bit
 5] Give polynomial values and the generated polynomial is obtained, and by other means arraive	at the desired output which uses the error detection technique. 6] Thus the output polynomial is obtained through this technique.
 
 # PROGRAM:
+```
 #include<stdio.h> #include<string.h> #define Nstrlen(g) char t[128],cs[128],g[]="111";
 int a,e,c; voidxor()
 {
@@ -50,8 +51,9 @@ for(e=0;(e<N-1)&&(cs[e]!='1');e++) if(e<N-1)
 printf("Error detected"); else
 printf("no error detected");
 }
- 
+```
 # OUTPUT:
+![Uploading image.png…]()
 
 
 # RESULT:
